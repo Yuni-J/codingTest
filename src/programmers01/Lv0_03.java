@@ -15,6 +15,8 @@ public class Lv0_03 {
             result += str;
         }
         System.out.print(result);
+        
+        sc.close();
     }
 
 }
